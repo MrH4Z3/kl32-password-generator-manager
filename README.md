@@ -44,7 +44,7 @@ Bir Pull Request (PR) oluşturun.
 
 
 ### İletişim
-mrh4z3@proton.me mail adresinden bana herhangi bir sorunla ilgili ulaşabilirsiniz.
+📫 Bana [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barış-can-sarıca-4836b3242) adresinden ulaşabilirsiniz.
 ### Kapanış
 Projemi incelediğinizi için teşekkür ederim. Herhangi bir eksiğim veya düzeltmem gereken bir yer varsa, istek veya önerilerinizi bana bildirmekten çekinmeyin lütfen. Python öğrenmeye yeni başladığım için hatalarım olabilir.
 
