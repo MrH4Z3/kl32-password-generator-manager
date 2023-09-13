@@ -21,7 +21,6 @@ Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız var:
 Proje dosyalarını yerel makinenize klonlayın ve gerekli bağımlılıkları yükleyin:
 
 ```bash
-git clone [https://github.com/yourusername/yourproject.git](https://github.com/MrH4Z3/kl32-password-generator-manager.git)https://github.com/MrH4Z3/kl32-password-generator-manager.git
+git clone https://github.com/MrH4Z3/kl32-password-generator-manager.git
 cd kl32-password-generator-manager
-
 python K!32.py
