@@ -31,6 +31,7 @@ git clone https://github.com/MrH4Z3/kl32-password-generator-manager.git
 cd kl32-password-generator-manager
 python K!32.py
 ```
+-Main Password: cansrc
 Uygulama başladığında, güçlü parolalar oluşturabilir, kaydedebilir ve yönetebilirsiniz.
 
 ### Katkı
