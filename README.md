@@ -54,7 +54,8 @@ Projemi incelediğinizi için teşekkür ederim. Herhangi bir eksiğim veya düz
     "Hata yapmaktan korkan insan, hiçbir şey yapamaz." - Abraham Lincoln
   </blockquote>
 </div>
-### ÖNEMLİ!
+
+### ÖNEMLİ
 -Kaydettiğiniz parolalar password.db databasesinde şifresiz olarak toplanmaktadır. Eğer programı aktif olarak kullanacaksanız eğer bunu unutmayın. Şifreleriniz çok basit bir şekilde ele geçirilebilir.
 -Porgramın deneme amaçlı yazıldığını güvenliksiz olduğunu unutmayın.
 -Şifrelerinizi daha güvenli olan programlarda veya not defterlerinizde tutun.
