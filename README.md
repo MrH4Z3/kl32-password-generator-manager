@@ -57,6 +57,6 @@ Projemi incelediğinizi için teşekkür ederim. Herhangi bir eksiğim veya düz
 
 ### ÖNEMLİ
 -Kaydettiğiniz parolalar password.db databasesinde şifresiz olarak toplanmaktadır. Programı aktif olarak kullanacaksanız eğer bunu unutmayın. Şifreleriniz çok basit bir şekilde ele geçirilebilir.
--Porgramın deneme amaçlı yazıldığını güvenliksiz olduğunu unutmayın.
+-Programın deneme amaçlı yazıldığını güvenliksiz olduğunu unutmayın.
 -Şifrelerinizi daha güvenli olan programlarda veya not defterlerinizde tutun.
 -Bu Program sadece kendimi geliştirmek için ayzdığım bir programdır. Databaseye herhangi bir tuzlama veya ssh ile şifreleme özelliği eklemedim.
