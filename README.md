@@ -1,6 +1,10 @@
 # K!32 Parola Yöneticisi
 
-![Uygulama Arayüzü](screenshot.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="mainpassword.PNG" width="300" height="200" alt="Açılış Ekranı">
+  <img src="ArayüzParolaOluşturucu.PNG" width="300" height="300" alt="Parola Oluşturma Ekranı">
+  <img src="ArayüzKayıtlıParolalar.PNG" width="300" height="300" alt="Kayıtlı Parolalar Ekranı">
+</div>
 
 K!32 Parola Yöneticisi, kullanıcıların güçlü parolalar oluşturmasına, kaydetmesine ve yönetmesine yardımcı olan kullanıcı dostu bir uygulamadır.
 
@@ -40,8 +44,7 @@ Bir Pull Request (PR) oluşturun.
 
 
 ### İletişim
-mrh4z3@proton.me
-Yukarıda verdiğim mail adresinden bana herhangi bir sorunla ilgili ulaşabilirsiniz.
+mrh4z3@proton.me mail adresinden bana herhangi bir sorunla ilgili ulaşabilirsiniz.
 ### Kapanış
 Projemi incelediğinizi için teşekkür ederim. Herhangi bir eksiğim veya düzeltmem gereken bir yer varsa, istek veya önerilerinizi bana bildirmekten çekinmeyin lütfen. Python öğrenmeye yeni başladığım için hatalarım olabilir.
 
